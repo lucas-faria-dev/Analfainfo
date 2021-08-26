@@ -1,2 +1,2 @@
 # Analfainfo
-Repository to store all classes within this course
+Esse repositório tem como objetivo guardar todas as aulas dentro deste curso
